@@ -1,1 +1,1 @@
-# StudentProjects
+# AndroidStudio with OpenGl project
